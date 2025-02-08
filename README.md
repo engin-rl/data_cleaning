@@ -1,6 +1,10 @@
 # data_cleaning
 this is an SQL data cleaning project using MySQL
-
+-- steps
+-- 1. remove duplicates
+-- 2. standardize the data
+-- 3. null values or blank values
+-- 4. remove any columns and rows that are not necessary
 
 # sample data
 
