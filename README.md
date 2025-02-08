@@ -18,3 +18,16 @@ this is an SQL data cleaning project using MySQL
 
 
 
+# clean data
+| Company         | Location        | Industry    | Total Laid Off | Percentage Laid Off | Date       | Stage     | Country        | Funds Raised (Millions) |
+|----------------|----------------|------------|---------------|------------------|------------|-----------|--------------|----------------------|
+| Included Health | SF Bay Area     | Healthcare | 0             | 0.06             | 2022-07-25 | Series E  | United States | 272                  |
+| &Open         | Dublin          | Marketing  | 9             | 0.09             | 2022-11-17 | Series A  | Ireland        | 35                   |
+| #Paid         | Toronto         | Marketing  | 19            | 0.17             | 2023-01-27 | Series B  | Canada         | 21                   |
+| 100 Thieves   | Los Angeles     | Consumer   | 12            | NULL             | 2022-07-13 | Series C  | United States | 120                  |
+| 10X Genomics  | SF Bay Area     | Healthcare | 100           | 0.08             | 2022-08-04 | Post-IPO  | United States | 242                  |
+| 1stdibs       | New York City   | Retail     | 70            | 0.17             | 2020-04-02 | Series D  | United States | 253                  |
+| 2TM          | Sao Paulo       | Crypto     | 90            | 0.12             | 2022-06-01 | Unknown   | Brazil        | 250                  |
+| 2TM          | Sao Paulo       | Crypto     | 100           | 0.15             | 2022-09-01 | Unknown   | Brazil        | 250                  |
+| 2U           | Washington D.C. | Education  | 0             | 0.2              | 2022-07-28 | Post-IPO  | United States | 426                  |
+
