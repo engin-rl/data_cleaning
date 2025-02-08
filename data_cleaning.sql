@@ -1,6 +1,6 @@
 -- data cleaning
 
--- exploring dataset
+-- exploring the dataset
 SELECT * FROM layoffs;
 
 -- steps
